@@ -1,0 +1,93 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "实习经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": {
+    "hidden": false,
+    "shape": "square"
+  },
+  "profile": {
+    "name": "欧阳强",
+    "email": "846037649@qq.com",
+    "mobile": "15278603786",
+    "github": "https://github.com/danhuang250",
+    "zhihu": "",
+    "workExpYear": "",
+    "workPlace": "广州",
+    "positionTitle": "前端工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2020.09.01",
+        "2024.06.30"
+      ],
+      "school": "华南理工大学",
+      "major": "计算机科学与技术",
+      "academic_degree": "本科",
+      "dataIndex": 0
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "英语 CET4",
+      "award_time": "2020",
+      "dataIndex": 0
+    },
+    {
+      "award_time": "2021",
+      "award_info": "国家励志奖学金"
+    }
+  ],
+  "workExpList": [],
+  "skillList": [
+    {
+      "skill_name": "HTML 和 CSS",
+      "skill_desc": "能根据原型图基本还原页面",
+      "skill_level": 66,
+      "dataIndex": 0
+    },
+    {
+      "skill_name": "Typescript",
+      "skill_desc": "使用过typescript，添加对静态类型的支持",
+      "skill_level": 60,
+      "dataIndex": 1
+    },
+    {
+      "skill_name": "JavaScript",
+      "skill_level": 80,
+      "dataIndex": 2,
+      "skill_desc": "熟悉JavaScript和ES6+，例如原型链，闭包，事件循环，Promise等。"
+    },
+    {
+      "skill_name": "Vue3",
+      "skill_level": 80,
+      "skill_desc": " 了解Vue3源码，包括响应系统，渲染器，组件化以及编译器。",
+      "dataIndex": 3
+    }
+  ],
+  "projectList": [
+    {
+      "project_time": "2022.10.23-2022-12-15",
+      "project_name": "酸奶机后台管理系统",
+      "project_role": "前端开发",
+      "project_desc": "提供给门店人员对商品进行管理、申请等操作。提供给经理对门店及工作人员的管理。",
+      "project_content": "技术栈：Vue3、Vue-Router4、Pinia、Typescript、TailwindCSS。 模板：Pure-Admin\n1、权限管理。根据角色通过动态添加路由的方式展示页面。\n2、引入百度SDK，支持对地图添加覆盖物以及正/逆地址解析。\n3、使用xlsl将销售记录导出。\n项目预览地址：https://ci.lambda1107.icu:9001/alchemist/",
+      "dataIndex": 0
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "😈 能力项：沟通协调能力、执行力\n  自学前端一年，不满足于CRUD，想完善工程化方面知识，想学习行业前沿技术。例如：数据可视化，微前端。立志成为一名js全栈工程师。\n    "
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
